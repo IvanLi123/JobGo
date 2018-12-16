@@ -1,4 +1,5 @@
 # JobGo -- 2018Fall Final project for CMPT732
+You can simply view our website at http://nml-cloud-231.cs.sfu.ca:8080
 
 ## Files Intruduction:
 
